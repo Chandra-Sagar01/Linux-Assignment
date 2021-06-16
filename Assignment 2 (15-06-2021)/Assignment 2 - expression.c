@@ -7,4 +7,4 @@ int main()
     x = (a++&&(!b)&&b||a);
     printf("%d\n",x);
 }
-//Output: 1
+////Output: 1
