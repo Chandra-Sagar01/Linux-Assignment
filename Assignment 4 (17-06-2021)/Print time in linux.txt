@@ -1,0 +1,6 @@
+Print current time in hours, minutes, seconds, miliseconds, nano seconds in linux terminal
+
+command:$ date +%H.%M.%S.%3N.%N
+
+Consider time 08:33AM
+//output: 08.33.01.287.287006802

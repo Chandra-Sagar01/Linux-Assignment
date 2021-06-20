@@ -1,0 +1,3 @@
+Moxa board is a communication multiport serial board, serial boards for a variety of slot types - from ISA to PCI Express.
+Application - Industrial networking applications.
+
