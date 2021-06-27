@@ -1,0 +1,4 @@
+List out the applications of Union?
+1. To find whether the machine is little/big endian
+2. Unions can be useful in many situations where we want to use the same memory for two or more members.
+3. To find bit value in a variable without using bitwise operator
