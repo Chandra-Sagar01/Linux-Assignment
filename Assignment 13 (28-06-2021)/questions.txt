@@ -5,7 +5,7 @@ Assignment 28-06-2021
 3. Write a program with Macro to find even or odd using bitwise operator.
 4. Write a program to find the given number is 2 power or not.
 5. Do exclusive OR for 
-20,20,40,40,13,13,11,88,88,98,99,11,11
+20,20,40,40,13,13,11,88,88,98,98,11,11
 Manually.
 5. Write C program for 5th problem
 
